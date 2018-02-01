@@ -24,7 +24,7 @@
       AKA: "Passive Infrared", "Pyroelectric", “IR motion" sensors
       Pyroelectric sensor - detect levels of infrared radiation
       The hotter something is, the more radiation is emitted
-      Good for detecting when a person has left or entered the area, or has approached
+      Good for detecting when a person has left or entered the area, or has approached
       Two slots sensitive to IR
             Person passes by - intercepts one half of the PIR sensor - positive differential change between the two halves
             Warm body leaves - reverse - negative differential change
