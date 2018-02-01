@@ -5,25 +5,19 @@ Jillian
 
 ### Arduino project
 #### Controlling the computer with hand gestures using Arduino 
-Link: https://circuitdigest.com/microcontroller-projects/control-your-computer-with-hand-gestures<br />
+Link: https://circuitdigest.com/microcontroller-projects/control-your-computer-with-hand-gestures
       
-This project is about building a gesture control feature on a computer with Arduino and Python.<br />
-Two Ultrasonic distance sensors are placed on top of the monitor and reads the distance between the<br /> 
-monitor and the user's hand using Arduino, based on this value of distance certain actions will be<br />
-performed by the python program.<br />
-For example:<br />
-      Action 1: When both the hands are placed up before the sensor at a particular far distance then<br /> 
-                the video in VLC player should Play/Pause.<br />
-      Action 2: When right hand is placed up before the sensor at a particular far distance then the<br /> 
-                video should Fast Forward one step.<br />
-      Action 3: When left hand is placed up before the sensor at a particular far distance then the<br /> 
-                video should Rewind one step.<br />
-      Action 4: When right hand is placed up before the sensor at a particular near distance and then<br /> 
-                if moved towards the sensor the video should fast forward and if moved away the video<br /> 
-                should Rewind.<br />
-      Action 5: When left hand is placed up before the sensor at a particular near distance and then if<br /> 
-                moved towards the sensor the volume of video should increase and if moved away the volume<br /> 
-                should Decrease.<br />
+      This project is about building a gesture control feature on a computer with Arduino and Python. Two Ultrasonic distance sensors are placed on top of the monitor and reads the distance between the monitor and the user's hand using Arduino, based on this value of distance certain actions will be performed by the python program.
+      For example:
+            Action 1: When both the hands are placed up before the sensor at a particular far distance then the video in VLC player                           should Play/Pause.
+            Action 2: When right hand is placed up before the sensor at a particular far distance then the video should Fast Forward 
+                      one step.
+            Action 3: When left hand is placed up before the sensor at a particular far distance then the video should Rewind one 
+                      step.
+            Action 4: When right hand is placed up before the sensor at a particular near distance and then if moved towards the
+                      sensor the video should fast forward and if moved away the video should Rewind.
+            Action 5: When left hand is placed up before the sensor at a particular near distance and then if moved towards the 
+                      sensor the volume of video should increase and if moved away the volume should Decrease.
 
 ### Sensors
 #### Tilt sensors
