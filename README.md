@@ -15,7 +15,7 @@
       Very inaccurate
       Tend to be sensitive to light between 700nm (red) to 500nm (green)
       Non-polarized (basically resistors)
-      Avoid bending the leads right at the epoxied sersor
+      Avoid bending the leads right at the epoxied sersor
       Pull-down-resistor = squareroot(Rmin*Rmax)
 
 ## PIR Motion Sensor
