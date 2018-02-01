@@ -1,3 +1,10 @@
+# Arduino project
+## Controlling the computer with hand gestures using Arduino
+
+      The project is about building a gesture control feature on a computer with Arduino and Python.
+      Two Ultrasonic distance sensors are placed on top of the monitor and reads the distance between the monitor and the user's hand using Arduino, based on this value of distance certain actions will be performed by the python program. 
+
+
 # Sensors
 ## Tilt sensors
       Detect orientation & inclination
