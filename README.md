@@ -19,9 +19,9 @@
       Pull-down-resistor = squareroot(Rmin*Rmax)
 
 ## PIR Motion Sensor
-      Detect whether a human has moved in or out of the sensor's range
+      Detect whether a human has moved in or out of the sensor's range
       Small, low-power, don't wear out
-      AKA: "Passive Infrared", "Pyroelectric", “IR motion" sensors
+      AKA: "Passive Infrared", "Pyroelectric", “IR motion" sensors
       Pyroelectric sensor - detect levels of infrared radiation
       The hotter something is, the more radiation is emitted
       Good for detecting when a person has left or entered the area, or has approached
