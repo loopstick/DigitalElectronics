@@ -1,3 +1,5 @@
+Jillian
+
 # Arduino project
 ## Controlling the computer with hand gestures using Arduino
 
