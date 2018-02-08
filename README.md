@@ -67,7 +67,6 @@ Link: https://circuitdigest.com/microcontroller-projects/control-your-computer-w
 A LED eye that follows the movement of people and tells the time by Morse code.
 <html>
 <img src = "https://github.com/JinghanLuo/DigitalElectronics/blob/master/431743234.jpg">
-      DigitalElectronics/431743234.jpg
 </html>
 The passive infrared sensors around the eye (LED bulb) will detect people's movement and the front of the eye will turn to the direction in which the movement is detected and change its color every time it turns.</br>
 When you touch the eye, the speaker will tell the time in Morse code, and the light will blink accordingly.
