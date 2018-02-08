@@ -65,7 +65,7 @@ Link: https://circuitdigest.com/microcontroller-projects/control-your-computer-w
 ### Project Proposal
 
 A LED eye that follows the movement of people and tells the time in Morse code.
-![sketch]/Images/sketch0208.jpg
+![sketch](/Images/sketch0208.jpg)
 <html>
 <img src = "https://github.com/JinghanLuo/DigitalElectronics/blob/master/sketch.jpg">
 </html>
