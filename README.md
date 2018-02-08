@@ -69,3 +69,5 @@ A LED eye that follows the movement of people and tells the time in Morse code.
 The passive infrared sensors around the eye (LED bulb) will detect people's movement and the front of the eye will turn to the direction in which the movement is detected and change its color every time it turns.</br>
 When you touch the eye, the speaker will tell the time in Morse code, and the light will blink accordingly.
 ![schematic](/Images/schematic0208.jpg)
+Reference: 
+https://www.hackster.io/lindsi8784/motion-following-motorized-camera-base-61afeb?ref=user&ref_id=58889&offset=0
