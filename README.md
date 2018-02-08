@@ -59,3 +59,12 @@ Link: https://circuitdigest.com/microcontroller-projects/control-your-computer-w
       Red cable - +voltage power
       Black cable - ground power
       Yellow cable - signal out
+
+## Week 3
+
+### Project Proposal
+
+A LED eye that follows the movement of people and tells the time by Morse code.
+<html>
+src = "https://raw.githubusercontent.com/JinghanLuo/DigitalElectronics/files/431743234.jpg"
+</html>
