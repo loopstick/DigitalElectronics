@@ -83,6 +83,7 @@ Essential elements</br>
       Compacitance sensor</br>
       Speaker/Piezo buzzer</br>
       Battery</br>
+      
 Steps</br>
       1) Associate servo movement with the input from the PIRs</br>
       2) Get the LED to change color when the servo changes direction</br>
@@ -92,6 +93,7 @@ Steps</br>
       6) Attach the compacitance sensor to the surface</br>
       7) Put everything together</br>
       8) Attach battery and a switch</br>
+      
 References</br>
       Servo</br>
       https://www.allaboutcircuits.com/projects/servo-motor-control-with-an-arduino/ </br>
