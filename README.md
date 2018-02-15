@@ -74,25 +74,25 @@ https://www.hackster.io/lindsi8784/motion-following-motorized-camera-base-61afeb
 
 ## Week 4
 
-Essential elements
-      Arduino
-      Breadboard
-      LED (bulb)
-      Passive Infrared (PIR) sensors
-      Servo
-      Compacitance sensor
-      Speaker/Piezo buzzer
-      Battery
-Steps
-      1) Associate servo movement with the input from the PIRs
-      2) Get the LED to change color when the servo changes direction
-      3) Activate the speaker when the compacitance sensor is detecting touch/proximity
-      4) Get the arduino read the time and translate it into Morse code
-      5) Make a base for the PIRs and the servo
-      6) Attach the compacitance sensor to the surface
-      7) Put everything together
-      8) Attach battery and a switch
-References
-      Servo
-      https://www.allaboutcircuits.com/projects/servo-motor-control-with-an-arduino/
+Essential elements</br>
+      Arduino</br>
+      Breadboard</br>
+      LED (bulb)</br>
+      Passive Infrared (PIR) sensors</br>
+      Servo</br>
+      Compacitance sensor</br>
+      Speaker/Piezo buzzer</br>
+      Battery</br>
+Steps</br>
+      1) Associate servo movement with the input from the PIRs</br>
+      2) Get the LED to change color when the servo changes direction</br>
+      3) Activate the speaker when the compacitance sensor is detecting touch/proximity</br>
+      4) Get the arduino read the time and translate it into Morse code</br>
+      5) Make a base for the PIRs and the servo</br>
+      6) Attach the compacitance sensor to the surface</br>
+      7) Put everything together</br>
+      8) Attach battery and a switch</br>
+References</br>
+      Servo</br>
+      https://www.allaboutcircuits.com/projects/servo-motor-control-with-an-arduino/ </br>
       https://www.arduino.cc/en/Reference/Servo
