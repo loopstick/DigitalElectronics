@@ -80,13 +80,13 @@ Essential elements</br>
       LED (bulb)</br>
       Passive Infrared (PIR) sensors</br>
       Servo</br>
-      Compacitance sensor</br>
-      Speaker/Piezo buzzer</br>
+      Compacitance sensor</br>
+      Speaker/Piezo buzzer</br>
       Battery</br>
 Steps</br>
       1) Associate servo movement with the input from the PIRs</br>
       2) Get the LED to change color when the servo changes direction</br>
-      3) Activate the speaker when the compacitance sensor is detecting touch/proximity</br>
+      3) Activate the speaker when the compacitance sensor is detecting touch/proximity</br>
       4) Get the arduino read the time and translate it into Morse code</br>
       5) Make a base for the PIRs and the servo</br>
       6) Attach the compacitance sensor to the surface</br>
