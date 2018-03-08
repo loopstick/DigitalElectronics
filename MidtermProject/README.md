@@ -87,6 +87,9 @@ Here's the full code of this version. </br>
       }
     }
     
+Here's the link to the video: </br>
+https://drive.google.com/open?id=1QqiZkhrF3LSzVfZM7uT4oeBFitAybKEA
+
 Schematic </br>
 <html>
     <img src="https://github.com/JinghanLuo/DigitalElectronics/blob/master/MidtermProject/images/schematic.jpg" />
