@@ -6,5 +6,5 @@ The project is an illuminating eye (in the final version) that tracks and follow
 At this stage there are two PIR sensors installed and the servo would rotate to the direction in which movement is detected. A piezo is triggered by a capacitive sensorm but right now it only makes a constant sound. </br>
 Initial sketch </br>
 <html>
-  <img src="https://github.com/JinghanLuo/DigitalElectronics/blob/master/MidtermProject/images/sketch0208.jpg />
+  <img src="https://github.com/JinghanLuo/DigitalElectronics/blob/master/MidtermProject/images/sketch0208.jpg" />
 </html>
