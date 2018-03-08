@@ -11,4 +11,6 @@ Initial sketch </br>
 </html>
 
 Schematic </br>
-[!schematic](DigitalElectronics/MidtermProject/images/schematic.png)
+<html>
+  <img src="https://github.com/JinghanLuo/DigitalElectronics/blob/master/MidtermProject/images/schematic.png" />
+</html>
