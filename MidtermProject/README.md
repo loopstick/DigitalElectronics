@@ -89,5 +89,14 @@ Here's the full code of this version. </br>
     
 Schematic </br>
 <html>
-    <img src="https://github.com/JinghanLuo/DigitalElectronics/blob/master/MidtermProject/images/schematic.png" />
+    <img src="https://github.com/JinghanLuo/DigitalElectronics/blob/master/MidtermProject/images/schematic.jpg" />
 </html>
+
+#### Next steps / goals for the final project
+- Figure out a way for multitasking without using delay, so that it allows the sensors to keep working while the speaker makes sound in a rhythm. </br>
+- Connect the arduino with a time module to embed time information. </br>
+- Translate time into Morse code and convey it with the speaker (and light). </br>
+- Make masks for the PIR sensors to limit its range and sensitivity. Something like tubes around the lenses, leaving only the front area. </br>
+- Add more PIR sensors to allow multiple directions of detection. </br>
+- Attach a LED bulb to the top of the servo and connect its action to the input from the capacitive sensor. Maybe sync it with the speaker. </br>
+- Put everything together steadily. Make a base for the device and attach the eye to the LED bulb. </br>
